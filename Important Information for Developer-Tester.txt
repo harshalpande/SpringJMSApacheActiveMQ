@@ -1,0 +1,2 @@
+1) Download Apache Active MQ - version 5 from apache website
+2) Run activemq.bat from apache-activemq-5.15.9\bin\win64 directory to start the apache activemq server
